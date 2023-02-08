@@ -1,0 +1,29 @@
+body {
+    padding: 15px;
+  }
+
+.subheading {
+  text-align: center;
+  color: orangered;
+  padding-top: 20px;
+}
+
+.tagline {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+  object-fit:cover;
+}
+
+.item {
+  padding-top: 40px;
+}
+
+button {
+  background-color: lightskyblue;
+  border-radius: 12px;
+  width: 28%
+}
